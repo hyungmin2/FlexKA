@@ -1,0 +1,4 @@
+.vscode
+logs
+obj_dir
+compare_outputs
